@@ -1,9 +1,9 @@
 <script>
-import AppSecond from "./App-2.vue";
+import AppSecond from "./components/componentfirst.vue";
 export default{
   data(){
     return{
-      text: 'I am second component'
+      text: 'I am app'
     }
   },
   components:{

@@ -11,7 +11,8 @@ export default {
 <template>
     <div class="left">
         <header>
-            <h1>{{ text }}</h1>
+            <h2>I am first component of app</h2>
+            <h3>{{ text }}</h3>
         </header>
         <main>
             <ul>
